@@ -1,66 +1,61 @@
 <div align="center">
 
-<img src="./pokebola.svg" width="80" alt="Pokébola" />
+# Danilo Akin
 
-# AKIN
-### 🔴⚪ Dev Treinador de Código
+### Desenvolvedor de Software · Web & Mobile
 
-*"Cada bug é só um Pokémon selvagem esperando ser capturado."*
+<i>Transformo ideias em soluções digitais, um projeto de cada vez.</i>
 
-![Estúdio](https://img.shields.io/badge/Regi%C3%A3o-Bras%C3%ADlia--DF-EE1515?style=for-the-badge&labelColor=1A1A1A)
-![Status](https://img.shields.io/badge/Status-Em%20busca%20de%20est%C3%A1gio-FFFFFF?style=for-the-badge&labelColor=1A1A1A&color=EE1515)
+![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-A9906B?style=for-the-badge&labelColor=2E2A25)
+![Localização](https://img.shields.io/badge/Bras%C3%ADlia--DF-Presencial%20%2F%20H%C3%ADbrido-A9906B?style=for-the-badge&labelColor=2E2A25)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-1A1A1A?style=flat&logo=linkedin&logoColor=EE1515)](https://linkedin.com/in/SEU-USUARIO)
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-1A1A1A?style=flat&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Contato-1A1A1A?style=flat&logo=gmail&logoColor=EE1515)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-2E2A25?style=flat&logo=linkedin&logoColor=A9906B)](https://linkedin.com/in/SEU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-2E2A25?style=flat&logo=github&logoColor=A9906B)](https://github.com/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-Contato-2E2A25?style=flat&logo=gmail&logoColor=A9906B)](mailto:seuemail@exemplo.com)
 
 </div>
 
----
+<br>
 
-## 📖 Pokédex do Treinador
+## Sobre mim
 
-```
-Nome ..........: Akin
-Classe ........: Estudante de Desenvolvimento de Software
-Especialidade .: Web & Mobile
-Objetivo ......: Capturar uma vaga de estágio em Brasília-DF
-Fraqueza ......: Café fraco ☕ (recarrega com café especial)
-```
+Estudante de desenvolvimento de software, com formação voltada para **desenvolvimento web e mobile**.
+Atualmente em busca de uma **vaga de estágio na área de desenvolvimento de software**, em Brasília-DF (presencial ou híbrido).
 
-## ⚔️ Time principal (stack)
+Interesse particular em qualidade de software, boas práticas de desenvolvimento e aplicação de inteligência artificial em produtos reais.
 
-| Pokémon (tech) | Tipo        | Nível     |
-|----------------|-------------|-----------|
-| JavaScript     | ⚡ Elétrico  | ★★★★☆ |
-| Node.js        | 🌿 Planta    | ★★★★☆ |
-| Express        | 🌿 Planta    | ★★★☆☆ |
-| React          | 💧 Água      | ★★★☆☆ |
-| React Native   | 💧 Água      | ★★★☆☆ |
-| Python         | 🔥 Fogo      | ★★★☆☆ |
-| MySQL          | 🪨 Pedra     | ★★★☆☆ |
-| Git / GitHub   | 👻 Fantasma  | ★★★★☆ |
-
-## 🎒 Itens da mochila
-
-`APIs REST` &nbsp;•&nbsp; `Autenticação` &nbsp;•&nbsp; `Kanban` &nbsp;•&nbsp; `Integração de IA (OCR, TTS, LLMs)` &nbsp;•&nbsp; `Documentação técnica`
-
-## 🌍 Fora da Pokédex
-
-- ⚽ Futebol
-- ☕ Café especial
-- Madu
-
-## 📡 Central de contato
+## Stack técnica
 
 <div align="center">
 
-| LinkedIn | GitHub | Email |
-|---|---|---|
-| [seu-usuario](https://linkedin.com/in/SEU-USUARIO) | [@SEU-USUARIO](https://github.com/SEU-USUARIO) | seuemail@exemplo.com |
+![JavaScript](https://img.shields.io/badge/JavaScript-A9906B?style=flat-square&logo=javascript&logoColor=2E2A25)
+![Node.js](https://img.shields.io/badge/Node.js-A9906B?style=flat-square&logo=node.js&logoColor=2E2A25)
+![Express](https://img.shields.io/badge/Express-A9906B?style=flat-square&logo=express&logoColor=2E2A25)
+![React](https://img.shields.io/badge/React-A9906B?style=flat-square&logo=react&logoColor=2E2A25)
+![React Native](https://img.shields.io/badge/React_Native-A9906B?style=flat-square&logo=react&logoColor=2E2A25)
+![Python](https://img.shields.io/badge/Python-A9906B?style=flat-square&logo=python&logoColor=2E2A25)
+![HTML5](https://img.shields.io/badge/HTML5-A9906B?style=flat-square&logo=html5&logoColor=2E2A25)
+![CSS3](https://img.shields.io/badge/CSS3-A9906B?style=flat-square&logo=css3&logoColor=2E2A25)
+![MySQL](https://img.shields.io/badge/MySQL-A9906B?style=flat-square&logo=mysql&logoColor=2E2A25)
+![Git](https://img.shields.io/badge/Git-A9906B?style=flat-square&logo=git&logoColor=2E2A25)
+
+</div>
+
+## Áreas de atuação
+
+`Desenvolvimento Web` &nbsp;·&nbsp; `Desenvolvimento Mobile` &nbsp;·&nbsp; `APIs REST` &nbsp;·&nbsp; `Autenticação` &nbsp;·&nbsp; `Integração de IA` &nbsp;·&nbsp; `Qualidade de Software`
+
+## Contato
+
+<div align="center">
+
+| LinkedIn | GitHub | E-mail |
+|:---:|:---:|:---:|
+| [seu-usuario](https://linkedin.com/in/SEU-USUARIO) | [www.linkedin.com/in/danilo-akin-12528b35a
+](https://github.com/SEU-USUARIO) | danilo.akin07@gmail.com |
 
 </div>
 
 <div align="center">
-<sub>🔴⚪ Gotta build 'em all.</sub>
+<sub>Aprender · Construir · Compartilhar</sub>
 </div>
